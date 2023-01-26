@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261799189864",
+    "project_id": "chat-app-269e1",
+    "storage_bucket": "chat-app-269e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261799189864:android:9b7661608d9bda99c8cadd",
+        "android_client_info": {
+          "package_name": "com.example.chef_chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261799189864-1rkjvj1sijebdtmponjfpah8gc6kt7j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16c5z4zVR_75Sz8k-zj_0Pmm9W0P-Yu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261799189864-1rkjvj1sijebdtmponjfpah8gc6kt7j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
